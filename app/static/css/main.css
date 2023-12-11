@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+body{
+    padding-top: 15px;
+    background-image: url('../../static/images/8048b174-3df9-4df5-a280-c9e21a04d3c7.13b8e12606d06bfa3e382a785b7c7657.jpeg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: black;
+}
+
+.heading,h2,h3{
+    color:#fff;
+}
